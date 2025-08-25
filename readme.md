@@ -5,7 +5,7 @@
 
 <p align="center">
   📍 Aguascalientes, México &nbsp;|&nbsp;
-  ✉️ <a href="mailto:ivan.sanchezpon@hotmail.com">ivan.sanchezpon@hotmail.com</a> &nbsp;|&nbsp;
+  ✉️ <a href="mailto:ivan.sanchezpon@hotmail.com">ivansanchezpon@outlook.com</a> &nbsp;|&nbsp;
   🔗 <a href="https://github.com/citersito">github.com/citersito</a>
 </p>
 
