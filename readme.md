@@ -11,17 +11,6 @@
 
 ---
 
-## 🧠 Sobre mí
-
-Me gusta resolver problemas reales con ideas claras y estructuras lógicas.  
-Desarrollo web y consumo de APIs con enfoque funcional, técnico y ordenado.  
-Me interesan los proyectos con impacto tangible, porque **una buena solución siempre empieza con una buena pregunta**.
-
-Trabajo con herramientas modernas y organizo mis proyectos con visión modular.  
-No busco parecer el más experto, sino entregar valor real desde el conocimiento que ya tengo —y seguir creciendo desde ahí.
-
----
-
 ## 🛠️ Tecnologías
 
 <div align="center">
@@ -61,12 +50,7 @@ API FASTAPI - FRONTEND VUEJS
   
 ---
 
-### 💬 ¿Hablamos?
-Estoy abierto a colaborar en proyectos interesantes.  
-Puedes escribirme a [ivan.sanchezpon@hotmail.com](mailto:ivan.sanchezpon@hotmail.com)
-
 
 <blockquote align="center">
-💡 “No me interesa ser el mejor programador. Me interesa construir cosas que funcionen, tengan sentido y aporten algo real.”
 </blockquote>
 
